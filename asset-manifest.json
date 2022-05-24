@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exam/static/css/main.075074ce.css",
+    "main.js": "/Exam/static/js/main.157c6cb0.js",
+    "index.html": "/Exam/index.html",
+    "main.075074ce.css.map": "/Exam/static/css/main.075074ce.css.map",
+    "main.157c6cb0.js.map": "/Exam/static/js/main.157c6cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075074ce.css",
+    "static/js/main.157c6cb0.js"
+  ]
+}
